@@ -1,0 +1,1 @@
+/home/antonio/Documents/practicas_computacion/cormen/capitulo3/chapter3/target/debug/main: /home/antonio/Documents/practicas_computacion/cormen/capitulo3/chapter3/src/bin/main.rs /home/antonio/Documents/practicas_computacion/cormen/capitulo3/chapter3/src/lib.rs
